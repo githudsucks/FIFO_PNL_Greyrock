@@ -1,0 +1,31 @@
+FIFO PnL Report - 20250616_204543
+Input File: /workspaces/FIFO_PNL_Greyrock/bond_trades.csv
+
+=== SUMMARY ===
+Realized PnL:   $-25.95
+Unrealized PnL: $175.60
+Total PnL:      $149.65
+
+=== OPEN POSITIONS ===
+Position Contract  Price  Quantity  Cost Basis  EOM Price  Market Value  Unrealized PnL
+   SHORT   May 3%  64.85      5.00      324.25      60.25        301.25           23.00
+   SHORT   May 3%  64.90      5.00      324.50      60.25        301.25           23.25
+   SHORT   May 3%  65.50     12.00      786.00      60.25        723.00           63.00
+   SHORT   May 3%  65.80     12.00      789.60      60.25        723.00           66.60
+   SHORT   May 3%  67.45      1.00       67.45      60.25         60.25            7.20
+   SHORT   May 3%  68.60      1.00       68.60      60.25         60.25            8.35
+   SHORT   May 3%  63.55      1.00       63.55      60.25         60.25            3.30
+   SHORT   May 3%  60.85     10.00      608.50      60.25        602.50            6.00
+   SHORT   May 3%  61.10     10.00      611.00      60.25        602.50            8.50
+   SHORT  June 3%  54.40      4.00      217.60      58.80        235.20          -17.60
+   SHORT  June 3%  55.95      4.00      223.80      58.80        235.20          -11.40
+   SHORT  June 3%  55.30      3.00      165.90      58.80        176.40          -10.50
+   SHORT  June 3%  57.50      4.00      230.00      58.80        235.20           -5.20
+   SHORT  June 3%  58.30      4.00      233.20      58.80        235.20           -2.00
+   SHORT  June 3%  60.15      3.00      180.45      58.80        176.40            4.05
+   SHORT  June 3%  59.75      2.00      119.50      58.80        117.60            1.90
+   SHORT  June 3%  59.60      3.00      178.80      58.80        176.40            2.40
+   SHORT  June 3%  59.30      3.00      177.90      58.80        176.40            1.50
+   SHORT  June 3%  60.25      3.00      180.75      58.80        176.40            4.35
+   SHORT  June 3%  58.70      2.00      117.40      58.80        117.60           -0.20
+   SHORT  June 3%  58.50      3.00      175.50      58.80        176.40           -0.90
